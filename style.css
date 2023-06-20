@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    margin-top: 150px;
+    margin-left: 400px;
+    background-color: aqua;
+    width: 450px;
+    padding: 40px 40px;
+}
+.containerBtn{
+    margin-top: 20px;
+    display: flex;
+    gap: 45px;
+    margin-bottom: 50px;
+}
+button{
+    padding: 8px 20px;
+}
